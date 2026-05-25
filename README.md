@@ -6,7 +6,7 @@
 
 `Next.js 15 · React 19 · Monaco · React Flow · ELK · Zustand · TypeScript`
 
-[Live demo](https://vibegraph.vercel.app) · [Demo script](./DEMO.md)
+[Live demo](https://vibegraphh-zbg8v1aq9-nehalolol.vercel.app/) · [Demo script](./DEMO.md)
 
 </div>
 
